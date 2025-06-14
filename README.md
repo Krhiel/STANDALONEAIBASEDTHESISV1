@@ -1,3 +1,3 @@
 # STANDALONEAIBASEDTHESISV1
-Main Door ONLY (Thesis) project
+FIRST PART
 No Vosk file (small en 0.15)
