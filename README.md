@@ -1,0 +1,2 @@
+# STANDALONEAIBASEDTHESISV1
+Main Door ONLY (Thesis) project
